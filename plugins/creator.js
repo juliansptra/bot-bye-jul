@@ -1,6 +1,6 @@
 let handler = function (m) {
   // this.sendContact(m.chat, '6281515860089', 'Nurutomo', m)
-  this.sendContact(m.chat, '6289504585790', 'ᴀᴅɪ ᴏғғɪᴄɪᴀʟあ', m)
+  this.sendContact(m.chat, '6289678391870', 'Aryagilangあ', m)
   m.reply('Waitt...')
 }
 handler.help = ['owner', 'creator', 'pemilikbot']
