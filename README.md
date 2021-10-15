@@ -5,7 +5,7 @@ Simpel WhatsApp Bot
 ## FOR DEPLOY HEROKU USER
 
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/Adi-OfficialL/wabot-adi"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Ag-Gilang/bot-wa-ag"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 
 ## FOR TERMUX USER
@@ -16,8 +16,8 @@ Simpel WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Adi-OfficialL/wabot-adi
-> cd wabot-adi
+> git clone https://github.com/Ag-Gilang/bot-wa-ag
+> cd bot-wa-ag
 > npm install
 > node adi.js
 ```
@@ -32,8 +32,8 @@ Simpel WhatsApp Bot
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6)
 
 ```
-> git clone https://github.com/Adi-OfficialL/wabot-adi
-> cd wabot-adi
+> git clone https://github.com/Ag-Gilang/bot-wa-ag
+> cd bot-wa-ag
 > npm install
 ```
 
