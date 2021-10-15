@@ -1,4 +1,4 @@
-# wabot-adi
+# wabot
 
 Simpel WhatsApp Bot
 
