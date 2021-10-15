@@ -13,7 +13,7 @@ global.APIs = { // API Prefix
   clph: 'https://recoders-area.caliph.repl.co'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'KurrXd'
+  // 'https://website': 'cf6ab5c2c1bb1b5d'
   'https://api.xteam.xyz': 'cf6ab5c2c1bb1b5d',
   'https://recoders-area.caliph.repl.co': 'FreeApi',
   'https://vhtear.com': 'AdiOfficial404',
