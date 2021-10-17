@@ -49,4 +49,4 @@ Simpel WhatsApp Bot
 
 #### Author / Creator : [`Nurutomo`](https://GitHub.com/Nurutomo/wabot-aq)
 
-#### Recode By : [`AdiOfficial`](https://youtube.com/channel/UCXzxFx9pitmYFLJo4nHrRPg)
+#### Recode By : [`Arya gilang`](https://youtube.com/channel/UC0RPdUd0lLprcHWkKP-0wOA)
