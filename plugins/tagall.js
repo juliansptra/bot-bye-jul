@@ -5,7 +5,7 @@ let handler = async (m, { conn, text, participants, args }) => {
  teks = (args.length > 1) ? args.join(' ').trim() : ''
  teks += `  Total : ${users.length}\n`
 	for (let mem of users) {
-	teks += `➥ @${mem.split('@')[0]}\n*TAG ALL*\n`
+	teks += `➥ @${mem.split('@')[0]}\n`
 		}
 		
   conn.reply(m.chat, teks, m, { contextInfo: { mentionedJid: users } })
