@@ -4,7 +4,7 @@ let handler = async m => m.reply(`
 ❒ Sewa = _5k/grup (1 minggu)_
 ❒ Sewa = _10k/grup (2 minggu)_
 ❒ Sewa = _15k/grup (1 bulan)_
-❒ Free = _30 menit Bot Masuk Ke Group Kalian Setelah Itu Bot Akan Keluar_
+❒ Free = _24 jam Bot Masuk Ke Group Kalian Setelah Itu Bot Akan Keluar_
 
 ◪ *PEMBAYARAN BISA MELALUI*
 
@@ -13,7 +13,7 @@ let handler = async m => m.reply(`
 ❒ _OVO_
 ❒ _DANA_
 
-◪ 𝙆𝙀𝙐𝙉𝙏𝙐𝙉𝙂𝘼𝙉 𝙎𝙀𝙒𝘼 𝘽𝙊𝙏
+◪ *KEUNTUNGAN SEWA BOT*
 
 ❒ *Fitur Premium Terbuka*
 ❒ *Limit UNLIMITED*
@@ -24,9 +24,9 @@ let handler = async m => m.reply(`
 ❒ *Fitur Game Banyak Sepuas Nya Main*
 ❒ *Bisa Memasukkan Bot Ke dalam Grup*
 
-◪ *Jika Minat Hubungi owner kami*
-◪ *Atau Masuk Group Official Bot*
-_http://bit.ly/Grupgabutbotv1_
+◪ *Jika Minat Hubungi owner*
+◪ *Syarat gratis invite bot,Follow ig Owner*
+_https://www.instagram.com/_aryagilang/_
 
 Ingin Jadi Bot Seperti ini?
 ketik #jadibot
