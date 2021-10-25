@@ -475,7 +475,7 @@ global.dfail = (type, m, conn) => {
     private: 'Perintah ini hanya dapat digunakan di Chat Pribadi!',
     admin: 'Perintah ini hanya untuk *Admin* grup!',
     botAdmin: 'Jadikan bot sebagai *Admin* untuk menggunakan perintah ini!',
-    unreg: '*「 BELUM TERDAFTAR 」* \nHalo Kak, Yuk Daftar Dulu Soalnya Anda Belum Terdaftar Dalam Database Bot\n\nKetik : #daftar nama|umur\nContoh : #daftar AdiOfficial|17'
+    unreg: '*「 BELUM TERDAFTAR 」* \nHalo Kak, Yuk Daftar Dulu Soalnya Anda Belum Terdaftar Dalam Database Bot\n\nKetik : #daftar nama|umur\nContoh : #daftar Aryagilang|17'
   }[type]
   if (msg) return m.reply(msg)
 }
