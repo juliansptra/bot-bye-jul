@@ -35,7 +35,7 @@ Bonus: ${poin} XP
   handler.help = ['asahotak']
   handler.tags = ['game']
   handler.command = /^asahotak/i
-  handler.register = true
+  handler.register = false
 
   handler.limit = true
   
