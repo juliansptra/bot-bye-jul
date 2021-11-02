@@ -143,19 +143,18 @@ let pantek = 'https://i.ibb.co/8z7zqXv/'
 │
 ├◪ *STATUS BOT*
 ││
-│├❒ *%totalreg* Pengguna
+│├❒ *%totalreg* Pengguna 
 │├❒ *${groupsIn.length}* Group Chat
 │├❒ *${chats.length}* Total Chat
 │├❒ _%uptime_ Online
 │└❒ *Battery : ${conn.battery ? `${conn.battery.value}%* ${conn.battery.live ? 'Sedang Di Cass' : 'Tidak Di Cass'}` : 'Wait....*'}
 │
-├◪ *INFO*
+├◪ *INFO Owner Of This Bot*
 ││
-│├❒ *Owner Of This Bot*
-│├❒ _http://wa.me/6289678391870_
-│├❒ *Ig owner: @_aryagilang*
-│├❒ *Fb owner: Arya Gilang*
-│└❒ ©_*aryagilang*_
+│├❒ *Status : jomblo kak ^^*
+│├❒ *Wa* : _wa.me/6289678391870_ 
+│├❒ *Ig : @_aryagilang*
+│└❒ _*©aryagilang*_
 │
 └───────────────────────
 %readmore`
