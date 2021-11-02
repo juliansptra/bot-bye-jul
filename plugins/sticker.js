@@ -21,6 +21,6 @@ handler.help = ['stiker (reply)', 'stiker <url>', 'stikergif (reply)', 'stikergi
 handler.tags = ['sticker']
 handler.command = /^s(tic?ker)?(gif)?(wm)?$/i
 handler.limit = true
-handler.register = true
+handler.register = false
 
 module.exports = handler
