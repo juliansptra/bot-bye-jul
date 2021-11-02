@@ -9,7 +9,7 @@ handler.mods = false
 handler.premium = false
 handler.group = false
 handler.private = false
-handler.register = true
+handler.register = false
 
 handler.admin = false
 handler.botAdmin = false
@@ -24,8 +24,8 @@ function pickRandom(list) {
 }
 
 global.ganteng = [
-'Ganteng Level : 4%\n\nINI MUKA ATAU SAMPAH?!',
-'Ganteng Level : 7%\n\nSerius ya Bro,, Lu ampir mirip kayak Monyet!',
+'Ganteng Level : 4%\n\nINI MUKA ATAU GORENGAN PFFTT?!',
+'Ganteng Level : 7%\n\nSerius ya Bro,, Lu Hampir mirip kayak Monyet! :v',
 'Ganteng Level : 12%\n\nMakin lama liat muka lo gw bisa muntah!',
 'Ganteng Level : 22%\n\nMungkin karna lo sering liat berbuat maksiat😂',
 'Ganteng Level : 27%\n\nKeknya bakal susah dapet jodoh lu,, berdoa aja',
@@ -35,10 +35,10 @@ global.ganteng = [
 'Ganteng Level : 56%\n\nLu Setengah Ganteng :v',
 'Ganteng Level : 64%\n\nCukuplah',
 'Ganteng Level : 71%\n\nLumayan Ganteng juga lu ya',
-'Ganteng Level : 1%\n\nAWOAKAK BURIQQQ!!!',
-'Ganteng Level : 1%\n\nAWOAKAK BURIQQQ!!!',
-'Ganteng Level : 1%\n\nAWOAKAK BURIQQQ!!!',
-'Ganteng Level : 1%\n\nAWOAKAK BURIQQQ!!!',
+'Ganteng Level : 61%\n\nLo ganteng, kata emak lo Awowkwkwk',
+'Ganteng Level : 88%\n\nCewek pati nempel broq, selow aje Lo ganteng',
+'Ganteng Level : 81%\n\nCukuplah buat dapetin cewe spek SELEB',
+'Ganteng Level : 79%\n\nGANTENG DOANG JEMPUT CEWE NAIK MOTOR AWOKWKWK',
 'Ganteng Level : 1%\n\nAWOAKAK BURIQQQ!!!',
 'Ganteng Level : 1%\n\nAWOAKAK BURIQQQ!!!',
 'Ganteng Level : 1%\n\nAWOAKAK BURIQQQ!!!',
