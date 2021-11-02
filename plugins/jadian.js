@@ -17,7 +17,7 @@ handler.help = ['jadian']
 handler.tags = ['main']
 handler.command = ['jadian']
 handler.group = true
-handler.limit = true
-handler.register = true
+handler.limit = false
+handler.register = false
 
 module.exports = handler
