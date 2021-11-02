@@ -15,12 +15,12 @@ let { MessageType, mentionedJid } = require('@adiwajshing/baileys')
 
 let handler  = async (m, { conn, usedPrefix: _p, command }) => {
 let old = performance.now()
-await conn.fakeReply(m.chat, '*「 ⚠️ 」Loading...*', '0@s.whatsapp.net', '*Menampilkan List Menu*', 'status@broadcast')
+await conn.fakeReply(m.chat, '*「 ⚠️ 」Tunggu sebentar kak...*', '0@s.whatsapp.net', '*Menampilkan List Menu AgBot*', 'status@broadcast')
 const chats = conn.chats.all()
 const groups = chats.filter(v => v.jid.endsWith('g.us'))
 const groupsIn = groups.filter(v => !v.read_only)
 let AdiOfficial = './src/avatar_contact.png'
-let pantek = 'https://i.ibb.co/8z7zqXv/IMG-20210618-WA0001.jpg'
+let pantek = 'https://i.ibb.co/8z7zqXv/'
 
   try {
     AdiOfficial = await conn.getProfilePicture(m.sender)
@@ -162,7 +162,7 @@ let pantek = 'https://i.ibb.co/8z7zqXv/IMG-20210618-WA0001.jpg'
     let header = conn.menu.header || '┌──*「 ```%category``` 」*──'
     let body   = conn.menu.body   || '├◪ *%cmd%islimit*'
     let footer = conn.menu.footer || '└───────────────────────'
-    let after  = conn.menu.after  || (conn.user.jid == global.conn.user.jid ? '' : `Powered by https://wa.me/${global.conn.user.jid.split`@`[0]}`) + `\n\n*SPECIAL THANKS TO*\n\n*❒ Allah Swt*\n*❒ Nurutomo*\n*❒ KurrXd*\n*❒ Adi Official*\n*❒ Arya Gilang*\n*❒ All admin*\n*❒ Penyedia Apikey*\n*❒ Creator Bot WhatsApp*\n*❒ Dan Seluruh Pengguna Bot ini*`
+    let after  = conn.menu.after  || (conn.user.jid == global.conn.user.jid ? '' : `Powered by https://wa.me/${global.conn.user.jid.split`@`[0]}`) + `\n\n*SPECIAL THANKS TO*n\n\*❒ Arya Gilang*\n*❒ All admin*\n*❒ Penyedia Apikey*\n*❒ Creator Bot WhatsApp*\n*❒ Dan Seluruh Pengguna Bot ini*`
     let _text  = before + '\n'
     for (let tag in groups) {
       _text += header.replace(/%category/g, tags[tag]) + '\n'
