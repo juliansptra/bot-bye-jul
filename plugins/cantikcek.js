@@ -23,7 +23,7 @@ function pickRandom(list) {
 }
 
 global.cantik = [
-'Cantik Level : 4%\n\nINI MUKA ATAU SAMPAH?!',
+'Cantik Level : 4%\n\nINI MUKA ATAU GORENGAN WOWKWKWK?!',
 'Cantik Level : 7%\n\nSerius ya,, Lu ampir mirip kayak Monyet!',
 'Cantik Level : 12%\n\nMakin lama liat muka lo gw bisa muntah!',
 'Cantik Level : 22%\n\nMungkin karna lo sering liat berbuat maksiat😂',
@@ -42,8 +42,8 @@ global.cantik = [
 'Cantik Level : 1%\n\nAWOAKAK BURIQQQ!!!',
 'Cantik Level : 1%\n\nAWOAKAK BURIQQQ!!!',
 'Cantik Level : 1%\n\nAWOAKAK BURIQQQ!!!',
-'Cantik Level : 1%\n\nAWOAKAK BURIQQQ!!!',
-'Cantik Level : 1%\n\nAWOAKAK BURIQQQ!!!',
+'Cantik Level : 95%\n\nAARRGHHH CANTIK BANGET ANJ, owner bot kalo ngeliat pasti naksir dah :v',
+'Cantik Level : 87%\n\nCantik, tapi sayang',
 'Cantik Level : 77%\n\nGak akan Salah Lagi dah neng',
 'Cantik Level : 83%\n\nDijamin cowok gak akan kecewa neng',
 'Cantik Level : 89%\n\ncowok2 pasti auto salfok klo ngeliat lo!',
