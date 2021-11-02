@@ -1,5 +1,5 @@
 let handler  = async (m, { conn }) => {
-  conn.reply(m.chat,`“${pickRandom(global.dare)}”`, m)
+  conn.reply(m.chat,`*[ ~TRUTH~ | DARE ]*\n\n“${pickRandom(global.dare)}”`, m)
 }
 handler.help = ['dare']
 handler.tags = ['fun']
@@ -9,7 +9,7 @@ handler.mods = false
 handler.premium = false
 handler.group = false
 handler.private = false
-handler.register = true
+handler.register = false
 
 handler.admin = false
 handler.botAdmin = false
@@ -28,15 +28,15 @@ global.dare = [
 "Ambil minuman apa saja yang ada didekat mu lalu campurkan dengan cabai dan minum!",
 "Ambil nomor secara acak dari kontakmu, telepon dia, dan bilang *Aku mencintaimu*",
 "Beli makanan paling murah di kantin (atau beli sebotol aqua) dan bilang sambil tersedu-sedu pada teman sekelasmu *Ini adalah makanan yang paling mahal yang pernah kubeli*",
-"Beli satu botol coca cola dan siram bunga dengan coca cola itu di depan orang banyak.",
-"Berdiri deket kulkas, tutup mata, pilih makanan secara acak didalemnya, pas makanpun mata harus tetep ditutup.",
+"pilih 1 orang yang ada disini, terus kamu maki dia\nkatain aja gpp sumpa gpp demi alek",
+"confess ke crush kamu sekarang!",
 "Berdiri di tengah lapangan basket dan berteriak, *AKU MENCINTAIMU PANGERANKU/PUTRIKU*",
-"Beri hormat pada seseorang di kelas, lalu bilang *Hamba siap melayani Anda, Yang Mulia.*",
-"Berjalan sambil bertepuk tangan dan menyanyi lagu *Selamat Ulang Tahun* dari kelas ke koridor.",
+"Beri hormat pada orang yang lewat di depan kamu sekarang*",
+"foto pose terkonyol kamu,lalu upload ke story wa/ig",
 "Berlutut satu kaki dan bilang *Marry me?* sama orang pertama yang masuk ke ruangan.",
-"Bikin hiasan kepala absurd dari tisu, apapun itu, terus suruh pose didepan kamera, terus upload.",
+"call mantan kamu, lalu bilang *AKU MASIH SAYANG SAMA KAMU, MAU BALIK KAYA DULU LAGI GA?*",
 "Bilang *KAMU CANTIK/GANTENG BANGET NGGAK BOHONG* sama cewek/cowok yang menurutmu paling cantik/ganteng.",
-"Bilang pada seseorang di kelas, *Aku baru saja diberi tahu aku adalah kembaranmu dulu, kita dipisahkan, lalu aku menjalani operasi plastik. Dan ini adalah hal paling serius yang pernah aku katakan.*",
-"Buang buku catatan seseorang ke tempat sampah, di depan matanya, sambil bilang *Buku ini isinya tidak ada yang bisa memahami*",
+"gombalin orang yang ada disekitar kamu *temen,sahabat,lawanjenis,atau admin grup gc*\n\n(admin gc tempat kamu bermain ToD)",
+"menyanyikan lagu balonku dengan huruf vokal diganti menjadi *O*\nVN lalu kirim kesini",
 "Cabut bulu kaki mu sendiri sebanyak 3 kali!",
 ]
