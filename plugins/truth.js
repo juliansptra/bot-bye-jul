@@ -1,5 +1,5 @@
 let handler  = async (m, { conn }) => {
-  conn.reply(m.chat,`*「 TRUTH | DARE 」*\n\n“${pickRandom(global.truth)}”`, m)
+  conn.reply(m.chat,`*「 TRUTH | ~DARE~ 」*\n\n“${pickRandom(global.truth)}”`, m)
 }
 handler.help = ['truth']
 handler.tags = ['fun']
@@ -9,7 +9,7 @@ handler.mods = false
 handler.premium = false
 handler.group = false
 handler.private = false
-handler.register = true
+handler.register = false
 
 handler.admin = false
 handler.botAdmin = false
@@ -30,13 +30,14 @@ global.truth = [
 "Apa hal paling memalukan dari temanmu?",
 "Apa hal pertama yang kamu lihat saat kamu melihat orang lain (lawan jenis)?",
 "Apa hal pertama yang terlintas di pikiranmu saat kamu melihat cermin?",
-"Apa hal terbodoh yang pernah kamu lakukan?",
-"Apa hal terbodoh yang pernah kamu lakukan?",
+"Apa hal terbodoh yang pernah kamu lakukan? dan semua orang gaada yang tau",
+"sebutin hal terkonyol lo pas waktu main sama besti lo",
 "Apa ketakutan terbesar kamu?",
 "Apa mimpi terburuk yang pernah kamu alami?",
 "Apa mimpi terkonyol yang sampai sekarang kamu kamu ingat?",
 "Apa pekerjaan paling konyol yang pernah kamu bayangin kamu akan jadi?",
 "Apa sifat terburukmu menurut kamu?",
 "Apa sifat yang ingin kamu rubah dari dirimu?",
-"Apa sifat yang ingin kamu rubah dari temanmu?",
+"Apa yang bakal lo sampein kalo mantan lo tiba tiba ngajak lo balikan?",
+"gimana cara kamu menghapus kenangan M4NT4N",
 ]
